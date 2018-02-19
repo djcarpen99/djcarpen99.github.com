@@ -1,0 +1,21 @@
+body
+{
+	font-family:				arial;
+	background-color: 	lightblue;
+}
+
+table
+{	
+	text-align:	center;
+}
+
+td
+{
+	padding:				10px;
+	text-align:			center;
+}
+
+.book-image
+{
+	height:	100px;
+}
